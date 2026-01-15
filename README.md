@@ -1,3 +1,5 @@
+# Natural Language Terminal
+
 A command-line terminal where users can query in natural language. A command line interface is arguably the most poorly designed interface because the names of the commands are not intuitive and the number of parameters are somewhat arbitrary. As such, users must memorize the syntax of a command. It may work for expert users but not for regular computer users.
 
 Objectives:
